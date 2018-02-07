@@ -1,18 +1,8 @@
-# test02
+# python 和 go 语言写爬虫
 
-## `python` test
+## 使用scrapy框架爬虫抓取拉勾天津公司
 
 ```python
-import requests
-
-url = "https://www.baidu.com/"
-r = requests.get(url)
-print r.status_code
-print r.content
-```
-
-## `python` 下 `scrapy` 框架爬虫抓取拉勾天津公司
-
 # -*- coding: utf-8 -*-
 import scrapy
 
@@ -62,11 +52,10 @@ class TianjinSpider(scrapy.Spider):
     def detailpage(self, response):
         print response.body
 
-```python
 
 ```
 
-## `go` test
+## go语言抓取csdn文章
 
 ```go
 package main
