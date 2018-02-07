@@ -1,3 +1,3 @@
 # Welcome to Shengjie Li's gitpage!
 
-[hello](https://shengjieli.github.io/2018-02-06-hello)
+[go语言](https://shengjieli.github.io/2018-02-07-go)
