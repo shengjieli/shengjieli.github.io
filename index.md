@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[多线程编程常用工具](https://shengjieli.github.io/weixin/14)
+
 [Python多线程总结（Python2.7）](https://shengjieli.github.io/weixin/13)
 
 [functools --- Higher-order functions and operations on callable objects](https://shengjieli.github.io/weixin/12)
