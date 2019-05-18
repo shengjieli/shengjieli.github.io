@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[并发编程终极武器concurrent.futures](https://shengjieli.github.io/weixin/16)
+
 [Python多进程编程和进程间通信](https://shengjieli.github.io/weixin/15)
 
 [多线程编程常用工具](https://shengjieli.github.io/weixin/14)
