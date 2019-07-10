@@ -8,6 +8,12 @@
 
 ### 公众号文章
 
+[Redis 基础数据类型及操作](https://shengjieli.github.io/weixin/19)
+
+[如何用Python是实现一个守护进程](https://shengjieli.github.io/weixin/18)
+
+[subprocess子进程管理模块](https://shengjieli.github.io/weixin/17)
+
 [并发编程终极武器concurrent.futures](https://shengjieli.github.io/weixin/16)
 
 [Python多进程编程和进程间通信](https://shengjieli.github.io/weixin/15)
