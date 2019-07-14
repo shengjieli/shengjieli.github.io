@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[分布式任务队列Celery](https://shengjieli.github.io/weixin/20)
+
 [Redis 基础数据类型及操作](https://shengjieli.github.io/weixin/19)
 
 [如何用Python是实现一个守护进程](https://shengjieli.github.io/weixin/18)
