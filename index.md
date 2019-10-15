@@ -8,6 +8,12 @@
 
 ### 公众号文章
 
+[招聘数据分析](https://shengjieli.github.io/weixin/23)
+
+[用asycnio和aiohttp实现一个并发爬虫](https://shengjieli.github.io/weixin/22)
+
+[Python的asyncio并发编程](https://shengjieli.github.io/weixin/21)
+
 [分布式任务队列Celery](https://shengjieli.github.io/weixin/20)
 
 [Redis 基础数据类型及操作](https://shengjieli.github.io/weixin/19)
