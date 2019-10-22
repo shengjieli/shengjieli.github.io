@@ -8,7 +8,9 @@
 
 ### 公众号文章
 
-[招聘数据分析](https://shengjieli.github.io/weixin/23)
+[A厂招聘数据分析(图表版)](https://shengjieli.github.io/weixin/24)
+
+[A厂招聘数据分析](https://shengjieli.github.io/weixin/23)
 
 [用asycnio和aiohttp实现一个并发爬虫](https://shengjieli.github.io/weixin/22)
 
