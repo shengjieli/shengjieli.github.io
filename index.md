@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[不会前端，用Python也能生成好看的图表！](https://shengjieli.github.io/weixin/25)
+
 [A厂招聘数据分析(图表版)](https://shengjieli.github.io/weixin/24)
 
 [A厂招聘数据分析](https://shengjieli.github.io/weixin/23)
