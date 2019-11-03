@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[使用uWSGI+Nginx部署WSGI应用](https://shengjieli.github.io/weixin/28)
+
 [什么是WSGI、uWSGI和uwsgi](https://shengjieli.github.io/weixin/27)
 
 [都9012年了，听说你还在用Postman发送HTTP请求？](https://shengjieli.github.io/weixin/26)
