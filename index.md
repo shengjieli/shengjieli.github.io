@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[使用Gunicorn部署WSGI应用](https://shengjieli.github.io/weixin/29)
+
 [使用uWSGI+Nginx部署WSGI应用](https://shengjieli.github.io/weixin/28)
 
 [什么是WSGI、uWSGI和uwsgi](https://shengjieli.github.io/weixin/27)
