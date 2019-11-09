@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[使用Django REST framework快速实现对数据库的增删查改](https://shengjieli.github.io/weixin/30)
+
 [使用Gunicorn部署WSGI应用](https://shengjieli.github.io/weixin/29)
 
 [使用uWSGI+Nginx部署WSGI应用](https://shengjieli.github.io/weixin/28)
