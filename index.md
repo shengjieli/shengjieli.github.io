@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[Django HTTPS部署指南](https://shengjieli.github.io/weixin/31)
+
 [使用Django REST framework快速实现对数据库的增删查改](https://shengjieli.github.io/weixin/30)
 
 [使用Gunicorn部署WSGI应用](https://shengjieli.github.io/weixin/29)
