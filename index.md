@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[使用configparser处理配置文件](https://shengjieli.github.io/weixin/32)
+
 [Django HTTPS部署指南](https://shengjieli.github.io/weixin/31)
 
 [使用Django REST framework快速实现对数据库的增删查改](https://shengjieli.github.io/weixin/30)
