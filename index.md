@@ -8,6 +8,9 @@
 
 ### 公众号文章
 
+
+[如何使用Python的logging记录日志](https://shengjieli.github.io/weixin/33)
+
 [使用configparser处理配置文件](https://shengjieli.github.io/weixin/32)
 
 [Django HTTPS部署指南](https://shengjieli.github.io/weixin/31)
