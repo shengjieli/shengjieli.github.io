@@ -8,6 +8,7 @@
 
 ### 公众号文章
 
+[如何配置Python的logging](https://shengjieli.github.io/weixin/34)
 
 [如何使用Python的logging记录日志](https://shengjieli.github.io/weixin/33)
 
