@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[logging内置的handlers的使用](https://shengjieli.github.io/l15/36)
+
 [logging内置的handlers的使用](https://shengjieli.github.io/weixin/35)
 
 [如何配置Python的logging](https://shengjieli.github.io/weixin/34)
