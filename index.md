@@ -8,7 +8,35 @@
 
 ### 公众号文章
 
-[logging内置的handlers的使用](https://shengjieli.github.io/l15/36)
+[WebSocket协议详解与实现](https://shengjieli.github.io/weixin/50)
+
+[什么是跨域？如何解决？](https://shengjieli.github.io/weixin/49)
+
+[HTTP的Content-Type请求头](https://shengjieli.github.io/weixin/48)
+
+[由Django REST framework的一个疑问引发的源码分析](https://shengjieli.github.io/weixin/47)
+
+[Django ORM常用操作](https://shengjieli.github.io/weixin/46)
+
+[CSRF 和 XSS](https://shengjieli.github.io/weixin/45)
+
+[HTTP缓存](https://shengjieli.github.io/weixin/44)
+
+[HTTPS为什么安全](https://shengjieli.github.io/weixin/43)
+
+[使用Nginx+Lua实现httpbin部分功能](https://shengjieli.github.io/weixin/42)
+
+[Lua+Nginx实现高性能Web应用](https://shengjieli.github.io/weixin/41)
+
+[Redis还能这么操作？](https://shengjieli.github.io/weixin/40)
+
+[10分钟学Lua(进阶篇)](https://shengjieli.github.io/weixin/39)
+
+[10分钟学Lua(基础篇)](https://shengjieli.github.io/weixin/38)
+
+[为什么应该学习一下lua这门语言](https://shengjieli.github.io/weixin/37)
+
+[pip install是如何生成exe文件的](https://shengjieli.github.io/weixin/36)
 
 [logging内置的handlers的使用](https://shengjieli.github.io/weixin/35)
 
