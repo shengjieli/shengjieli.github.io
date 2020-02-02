@@ -2,7 +2,7 @@
 
 ![我自己的公众号-小黑同学](https://shengjieli.github.io/img/qrcode.jpg)
 
-这是我的公众号，目前保持每周更新一篇的频率
+这是我的公众号，目前已同步更新50多篇原创文章
 
 ---
 
@@ -114,7 +114,7 @@
 
 [scrapy爬虫一定会用到的小技巧](https://shengjieli.github.io/2016/12/scrapy)
 
-[go语言学习总结](https://shengjieli.github.io/2018-02-07-go)
+[Go语言学习总结](https://shengjieli.github.io/2018-02-07-go)
 
-[简单的小爬虫(go和python)](https://shengjieli.github.io/2018/02/spider)
+[简单的小爬虫(Go和Python)](https://shengjieli.github.io/2018/02/spider)
 

@@ -1,4 +1,4 @@
-# python 和 go 语言写爬虫
+# Python 和 Go 语言写爬虫
 
 ## 使用scrapy框架爬虫抓取拉勾天津公司
 
