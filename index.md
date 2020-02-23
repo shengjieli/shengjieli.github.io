@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[Python type hints](https://shengjieli.github.io/weixin/2020/01)
+
 [WebSocket协议详解与实现](https://shengjieli.github.io/weixin/2019/50)
 
 [什么是跨域？如何解决？](https://shengjieli.github.io/weixin/2019/49)
