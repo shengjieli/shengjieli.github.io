@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[你知道关于Python类的这些知识吗？](https://shengjieli.github.io/weixin/2020/02)
+
 [Python type hints](https://shengjieli.github.io/weixin/2020/01)
 
 [WebSocket协议详解与实现](https://shengjieli.github.io/weixin/2019/50)
