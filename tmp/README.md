@@ -146,6 +146,34 @@ if __name__ == "__main__":
     main()
 ```
 
+xpath:
+html节点，父子，单斜线，双斜线，属性，id，class，@text，and，or
+contains
+```python
+result = html.xpath("//div/ul[@class='show']")[0]
+result.xpath('string(.)')
+```
+
+lxml:
+```python
+import requests
+from lxml.etree import HTML
+
+
+def main():
+    resp = requests.get("xxxx")
+    html = HTML(resp.text)
+    # html.cssselect('div#head .mnav > p')
+    ele = html.xpath('//div[@id="head"]/p')
+    print(ele.text)
+    print(ele.tag)
+    print(ele.attrib)
+
+
+if __name__ == "__main__":
+    main()
+```
+
 xpath：https://cuiqingcai.com/5545.html
 lxml and xpath：https://cuiqingcai.com/2621.html
 
