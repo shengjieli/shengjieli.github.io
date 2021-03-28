@@ -8,6 +8,8 @@
 
 ### 公众号文章
 
+[图片转换应用升级-starlette的类视图和消息加密](https://shengjieli.github.io/weixin/2021/01)
+
 [使用starlette对接微信快速开发一个图片转换应用](https://shengjieli.github.io/weixin/2020/03)
 
 [你知道关于Python类的这些知识吗？](https://shengjieli.github.io/weixin/2020/02)
